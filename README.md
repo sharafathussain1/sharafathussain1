@@ -1,4 +1,5 @@
-#👋**Hi, I'm Sharaft** 
+# 👋 **Hi, I'm Sharaft**
+ 
 
 👨‍💻 Aspiring Web Developer | Completing Web Development Bootcamp | Passionate about building beautiful, responsive websites.  
 
